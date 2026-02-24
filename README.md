@@ -85,8 +85,7 @@ Superliga/
 ├── build_dataset.py        ← feature engineering pipeline
 ├── train_models.py         ← ML training + LOGO-CV evaluation
 ├── predict_final_rounds.py ← ML predictions at rounds 26/27/28
-├── simulate_season.py      ← Monte Carlo simulation
-└── REPORT.md               ← full technical report
+└── simulate_season.py      ← Monte Carlo simulation
 ```
 
 ## Key Features
